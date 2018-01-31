@@ -51,6 +51,6 @@ public class MainPage extends AppCompatActivity {
     }
     public static void TestMethod()
     {
-        
+        int var = 5;
     }
 }
